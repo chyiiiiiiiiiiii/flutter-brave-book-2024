@@ -109,7 +109,7 @@
 - 14.8 複習測試觀念
 
 範例程式碼與相關資源：
-- https://github.com/chyiiiiiiiiiiii/dart-flutter-testing-examples
+- https://github.com/chyiiiiiiiiiiii/dart_flutter_testing_example
 
 ### CHAPTER.15 - AI 時代來臨：讓生成工具成為你的競爭優勢
 
