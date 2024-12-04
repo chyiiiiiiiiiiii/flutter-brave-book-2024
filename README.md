@@ -40,6 +40,9 @@
 - 5.3 動畫選擇
 - 5.4 動畫補充
 
+範例程式碼與相關資源：
+- https://github.com/chyiiiiiiiiiiii/flutter_animation_example
+
 ### CHAPTER.06 - 讓 App 有記憶：本地資料存取全解析
 
 - 6.1 資料存取概述
@@ -106,7 +109,7 @@
 - 14.8 複習測試觀念
 
 範例程式碼與相關資源：
-- https://github.com/chyiiiiiiiiiiii/dart-flutter-testing-examples
+- https://github.com/chyiiiiiiiiiiii/dart_flutter_testing_example
 
 ### CHAPTER.15 - AI 時代來臨：讓生成工具成為你的競爭優勢
 
