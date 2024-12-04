@@ -1,6 +1,6 @@
 # Flutter 勇者之書: 跨平台程式開發的新手入坑首選指南
 
-![Flutter 勇者之書封面](cover.png){:height="400px" width="300px"}
+<img src='cover.png' height="400px">
 
 ### CHAPTER.01 - 開發之旅的起點：Dart 和基礎功夫
 
