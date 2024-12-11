@@ -1,6 +1,16 @@
 # Flutter 勇者之書: 跨平台程式開發的新手入坑首選指南
 
-<img src='cover.png' height="400px">
+[![English](https://img.shields.io/badge/README-English-blue)](README_en.md)
+
+<img src='./images/cover.png' height="400px">
+
+## 作者
+
+[Yii Chen](https://github.com/chyiiiiiiiiiiii)           | [Dorara]()
+:-------------------------:|:-------------------------:|
+<img src="./images/yii.jpg" width=100 />  |  <img src="./images/dorara.jpg" width=100 />
+
+## 目錄
 
 ### CHAPTER.01 - 開發之旅的起點：Dart 和基礎功夫
 

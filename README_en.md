@@ -1,6 +1,15 @@
 # Flutter Brave: The Ultimate Guide to Cross-Platform Development for Beginners
 
-<img src='cover.png' height="400px">
+[![Chinese](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](README.md)
+
+<img src='./images/cover.png' height="400px">
+
+## Authors
+
+[Yii Chen](https://github.com/chyiiiiiiiiiiii)           | [Dorara]()
+:-------------------------:|:-------------------------:|
+<img src="./images/yii.jpg" width=100 />  |  <img src="./images/dorara.jpg" width=100 />
+
 
 ### CHAPTER 01 - The Beginning of Your Development Journey: Dart and Fundamentals
 
