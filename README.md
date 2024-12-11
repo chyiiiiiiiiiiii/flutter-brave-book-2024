@@ -18,10 +18,10 @@
 - 1.2 變數與類型
 - 1.3 函式（Function）
 - 1.4 泛型（Generics）
-- 1.5 紀錄 (Records)
-- 1.6 模式 (Patterns)
+- 1.5 紀錄（Records）
+- 1.6 模式（Patterns）
 - 1.7 枚舉（Enum）
-- 1.8 混入 (Mixins)
+- 1.8 混入（Mixins）
 - 1.9 擴充方法（Extension Methods）
 
 ### CHAPTER.02 - 搭建成功的開端：設置你的 Flutter 開發環境
