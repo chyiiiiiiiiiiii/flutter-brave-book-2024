@@ -4,10 +4,10 @@
 
 <img src='./images/cover.png' height="400px">
 
-出版社：博碩文化
-出版日期：2024/12/26
-語言：繁體中文
-書籍介紹：https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP22460
+出版社：博碩文化 </br>
+出版日期：2024/12/26 </br>
+語言：繁體中文 </br>
+書籍介紹：https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP22460 </br>
 購買連結：
 1. [天瓏網路書店](https://www.tenlong.com.tw/products/9786264140355)
 2. [博客來](https://www.books.com.tw/products/0011008795)
