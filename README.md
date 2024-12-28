@@ -12,7 +12,9 @@
 1. [天瓏網路書店](https://www.tenlong.com.tw/products/9786264140355)
 2. [博客來](https://www.books.com.tw/products/0011008795)
 
-回饋表單: [SurveyCake](https://www.surveycake.com/s/8MobP)
+文章解說：[2025 最新 Flutter 書籍《Flutter勇者之書》](https://medium.com/@yiichenhi/2025-最新-flutter-書籍-flutter勇者之書-ef2c008f1391)  </br>
+回饋表單：[SurveyCake](https://www.surveycake.com/s/8MobP)  </br>
+討論社群：[Line](https://line.me/ti/g2/2kZFJPIEPmPj0DOs2JhDGaZL47Y7FLJxhcYNXQ)  
 
 ## 作者
 
