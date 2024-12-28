@@ -12,7 +12,9 @@ Purchase Links:
 1. [Tenlong Online Bookstore](https://www.tenlong.com.tw/products/9786264140355)
 2. [Books.com.tw](https://www.books.com.tw/products/0011008795)
 
-Feedback Form: [SurveyCake](https://www.surveycake.com/s/8MobP)
+Article: [2025 最新 Flutter 書籍《Flutter勇者之書》](https://medium.com/@yiichenhi/2025-最新-flutter-書籍-flutter勇者之書-ef2c008f1391)  </br>
+Feedback Form: [SurveyCake](https://www.surveycake.com/s/8MobP)  </br>
+Discussion Space: [Line](https://line.me/ti/g2/2kZFJPIEPmPj0DOs2JhDGaZL47Y7FLJxhcYNXQ)  
 
 ## Authors
 
